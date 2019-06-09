@@ -1,0 +1,16 @@
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%   
+}
+p {
+    margin: 35px;
+}
+p {
+    padding: 35px;
+  }
+  #title-id {
+      background-color: aqua;
+  }
